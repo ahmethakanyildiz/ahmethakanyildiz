@@ -8,11 +8,11 @@
 ### Connect with me:
 
 
-[![website](./img/twitter-light.svg)](https://twitter.com/ahmethakan9119#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/ahmethakan9119#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ahmet-hakan-yildiz-8640531b6#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ahmet-hakan-yildiz-8640531b6#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/ahmethakan9119#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/ahmethakan9119#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/ahmet.hakan.yildiz#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/ahmet.hakan.yildiz#gh-dark-mode-only)
