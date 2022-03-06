@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, I'm Ahmet Hakan 👋
 
-<!--
-**ahmethakanyildiz/ahmethakanyildiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 I’m working at TÜBİTAK BİLGEM YTE.
+🌱 I’m currently learning a lot of things😄.
+🥅 2022 Goals: Become an ethical hacker and start developing a computer game (side but important project).
+⚡ Fun fact: I ❤️ playing computer games!
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![website](./img/twitter-light.svg)](https://twitter.com/ahmethakan9119#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/ahmethakan9119#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ahmet-hakan-yildiz-8640531b6#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ahmet-hakan-yildiz-8640531b6#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://www.instagram.com/ahmet.hakan.yildiz#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/ahmet.hakan.yildiz#gh-dark-mode-only)
