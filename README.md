@@ -1,7 +1,6 @@
 ### Hi there, I'm Ahmet Hakan 👋
 
 💼 I’m working at TÜBİTAK BİLGEM YTE.<br/>
-🌱 I’m currently learning a lot of things😄.<br/>
 🥅 2022 Goals: Work, improve hacker skills and start developing a computer game (side but important project).<br/>
 ⚡ Fun fact: I ❤️ playing computer games!<br/>
 
