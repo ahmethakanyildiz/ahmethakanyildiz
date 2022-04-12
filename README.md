@@ -1,6 +1,6 @@
 ### Hi there, I'm Ahmet Hakan 👋
 
-🎓 I will graduate from Hacettepe University Computer Engineering Department in 2022.<br/>
+🎓 I am a student at Computer Engineering Department, Hacettepe University.<br/>
 💼 I’m working at TÜBİTAK BİLGEM YTE.<br/>
 🥅 2022 Goals: Work, improve hacker skills and start developing a computer game (side but important project).<br/>
 ⚡ Fun fact: I ❤️ playing computer games!<br/>
