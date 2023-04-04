@@ -1,7 +1,7 @@
 ### Hi there, I'm Ahmet Hakan 👋
 
 🎓 I graduated from Hacettepe University Computer Engineering Department.<br/>
-💼 I’m working at TÜBİTAK BİLGEM YTE.<br/>
+💼 I’m working at TÜBİTAK BİLGEM SGE.<br/>
 
 ### Languages:
 
