@@ -4,7 +4,6 @@
 <br/>
 💼 I’m working at TÜBİTAK BİLGEM SGE.
 <br/>
-<br/>
 
 I am Ahmet Hakan YILDIZ. I graduated from Hacettepe University in 2022. I am currently employed at TÜBİTAK BİLGEM Cyber Security Institute as a Security Software Developer with the title of Researcher. My primary areas of interest revolve around application development and the security of these applications. I allocate a significant portion of my time to the development of software projects and continuous enhancement of my knowledge in the field of cyber security, both theoretically and practically. I maintain an open mindset towards learning and self-improvement, setting and pursuing ambitious goals while also cherishing the journey along the way.
 <br/>
