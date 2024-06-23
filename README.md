@@ -1,10 +1,12 @@
 ### Hi there, I'm Ahmet Hakan 👋
 
-🎓 I graduated from Hacettepe University Computer Engineering Department.
+🎓 I graduated from Hacettepe University Computer Engineering Department in 2022!
 <br/>
 💼 I’m working at TÜBİTAK BİLGEM SGE as a Security Software Developer with the title of Researcher.
 <br/>
-⭐️ My primary areas of interest revolve around application development and the security of these applications. Artificial intelligence captures my interest, though I have only delved into its theoretical aspects thus far.
+⭐️ My primary areas of interest revolve around application development and the security of these applications.
+<br/>
+🤖 Artificial intelligence captures my interest, though I have only delved into its theoretical aspects thus far :/
 <br/>
 <br/>
 
