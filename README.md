@@ -6,8 +6,6 @@
 <br/>
 ⭐️ My primary areas of interest revolve around application development and the security of these applications.
 <br/>
-🤖 Artificial intelligence captures my interest, though I have only delved into its theoretical aspects thus far :/
-<br/>
 <br/>
 
 ### Languages, Frameworks and Technologies:
