@@ -4,6 +4,8 @@
 <br/>
 💼 I’m working at Cyberwise as a Engineer with the title of Vulnerability Management & Application Security Consultant.
 <br/>
+💻 In Cyberwise, I provide consulting services for products such as Tenable, Fortify, Sonatype, and Invicti, as well as finding analysis services.
+<br/>
 ⭐️ My primary areas of interest revolve around application development and the security of these applications.
 <br/>
 <br/>
@@ -24,12 +26,3 @@
 <img align="left" alt="CSharp" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Unity" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" style="padding-right:10px;" />
 <br/>
-<br/>
-
-### Connect with me:
-
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ahmet-hakan-yildiz-8640531b6#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ahmet-hakan-yildiz-8640531b6#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/ahmet.hakan.yildiz#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/ahmet.hakan.yildiz#gh-dark-mode-only)
