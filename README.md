@@ -6,7 +6,7 @@
 <br/>
 💻 In Cyberwise, I provide consulting services for products such as Tenable, Fortify, Sonatype, and Invicti, as well as finding analysis services.
 <br/>
-⭐️ My primary areas of interest revolve around application development and the security of these applications.
+⭐️ My primary areas of interest revolve around application security and finding analysis.
 <br/>
 <br/>
 
